@@ -1,8 +1,8 @@
-<h1 align="centre">MIVINKA BOT V5.0 🎵</h1>
+
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MIViNKA](https://github.com/mivinka1/)
-### Available on telegram as [@mivinka0](https://t.me/mivinka0)
+
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/21/14/97/2114971ba42c10500ce3003fe2e25056.jpg">
@@ -26,11 +26,11 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mivinka1/mivinkamusic-)
+
 
 Get pyrogram (p)  SESSION from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/mivinka1/GenerateStringSession)](https://replit.com/@mivinka1/GenerateStringSession)
+
 
 ### ⚔ Self-hosting (For Devs) 
 sh
@@ -115,8 +115,7 @@ Also Mivinka Bot is inspired by many opensource bots and userbots
 
 
 ## Copyright & License 👮
-- Copyright (C) 2020 - 2021 by [MIVINKA](github.com/mivinka1/) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/mivinka1/mivinkamusic/blob/master/LICENSE)
+- Copyright (C) 2020 - 2021 
+ - Licensed under the terms of the 
     
 Mivinka Bot is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [MIVINKA](https://github.com/mivinka1//)
