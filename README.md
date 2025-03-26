@@ -5,7 +5,7 @@
 ### Available on telegram as [@mivinka0](https://t.me/mivinka0)
 
 <p align="center">
-  <img src="https://telegra.ph/file/a1c237679c68716f76b63.gif">
+  <img src="https://i.pinimg.com/736x/21/14/97/2114971ba42c10500ce3003fe2e25056.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
